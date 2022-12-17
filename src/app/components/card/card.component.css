@@ -1,0 +1,36 @@
+mat-card {
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+mat-card-actions {
+  gap: 3.2rem;
+  margin-left: 3.7rem;
+  margin-bottom: 1rem;
+}
+mat-card-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+mat-card-header {
+  margin-left: 1rem;
+}
+mat-card-title {
+  font-size: 2rem;
+  padding: 1rem;
+}
+mat-card-subtitle {
+  font-size: 1rem;
+  padding: 1rem;
+}
+mat-card-content {
+  gap: 3rem;
+  margin: 1rem;
+}
+
+img {
+  width: 170px;
+  height: 170px;
+}
